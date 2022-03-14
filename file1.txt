@@ -1,3 +1,2 @@
 This is file 1
-Creating conflict 1git.
-now we need to revert changes
+Creating conflict 1

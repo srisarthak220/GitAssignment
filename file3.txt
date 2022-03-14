@@ -1,3 +1,2 @@
 This is file 3
 file 3 conflict
-now revert
