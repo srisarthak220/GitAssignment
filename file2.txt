@@ -1,2 +1,3 @@
 This is file 2
 file 2 conflict
+now we need to revert changes
